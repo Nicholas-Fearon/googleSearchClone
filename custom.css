@@ -1,5 +1,7 @@
-* {
-    margin: 0;
+
+
+.advanced_container{
+    margin: 50px;
 }
 
 .advanced_body {
@@ -128,17 +130,13 @@ padding: 20px;
     vertical-align: middle;
 }
 
-
-.advanced {
-    margin: 50px;
-}
-
 .row_input {
     display: flex;
     flex-direction: row;
     align-items: center;
     margin-top: 20px;
 }
+
 .left {
     width: 167px;
 }
@@ -165,14 +163,13 @@ padding: 20px;
     border: 1px solid #5f6368;
 }
 
-
-
 .submit_button {
     display: flex;
     justify-content: flex-end;
     width: 550px;
     margin: 10px;
 }
+
 .submit_button input {
     background: #4d90fe;
     border: 1px solid #3079ed;
